@@ -19,7 +19,7 @@
 
 ### 1. Home Page – The Entrance
 
-![Main Screenshot](./main_image.png)
+![Main Screenshot](/main_image.png)
 
 The homepage welcomes visitors with a dramatic background image and a bold statement: *“Unraveling the dark threads of cinema, literature, and art.”* It sets the tone for the entire site – unflinching, introspective, and stylish.
 
@@ -27,7 +27,7 @@ The homepage welcomes visitors with a dramatic background image and a bold state
 
 ### 2. Categories Overview
 
-![Categories Screenshot](./categories.png)
+![Categories Screenshot](/categories.png)
 
 The **Categories** page presents three large cards – Movies, Books, and Art – each with a representative image and a short tagline. Clicking any card leads to its dedicated review listing. The layout is clean, and the hover effect adds a subtle lift that makes navigation feel fluid.
 
@@ -35,7 +35,7 @@ The **Categories** page presents three large cards – Movies, Books, and Art �
 
 ### 3. Submit Your Review
 
-![Submit Screenshot](./submit.png)
+![Submit Screenshot](/submit.png)
 
 The **Send Review** page allows users to send their own critiques via a simple, accessible form. It collects the reviewer’s name, email, category, work title, and the review text itself. Although the site is static (no backend), the form demonstrates the intended workflow and is ready to be hooked up to a server or third‑party service.
 
