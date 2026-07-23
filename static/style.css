@@ -205,7 +205,7 @@ header nav > ul > li:hover ul.dropdown {
 /* ---------- SHOWCASE ---------- */
 #showcase {
   min-height: 500px;
-  background: url("/img/bg.png") no-repeat center center/cover;
+  background: url("img/bg.png") no-repeat center center/cover;
   text-align: center;
   color: #ffffff;
   display: flex;
